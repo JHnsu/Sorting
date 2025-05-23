@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="item_type">Item Type</string>
+    <string name="sort_by">Sort by:</string>
+    <string name="all">All</string>
+    <string name="lost">Lost</string>
+    <string name="found">Found</string>
+    <string name="category">Category</string>
+    <string name="gadgets">Gadgets</string>
+    <string name="personal_belongings">Personal Belongings</string>
+    <string name="bags">Bags</string>
+    <string name="accessories">Accessories</string>
+    <string name="clothing">Clothing</string>
+    <string name="school_supplies">School Supplies</string>
+    <string name="drinkware">Drinkware</string>
+    <string name="others">Others</string>
+</resources>

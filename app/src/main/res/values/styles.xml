@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Your custom button style -->
+    <style name="CustomButton">
+        <item name="android:background">@drawable/button_selector</item>
+        <item name="android:textColor">@color/text_selector</item>
+        <item name="android:minHeight">48dp</item>
+        <item name="android:minWidth">88dp</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+</resources>
